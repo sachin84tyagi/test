@@ -1,26 +1,26 @@
 <?php
 echo "<pre>";
-print_r($_SERVER111);
+print_r($_SERVER);
 echo "</pre>";
 
 echo "<pre>";
-print_r($_SERVER222);
+print_r($_SERVER);
 echo "</pre>";
 
 echo "<pre>";
-print_r($_SERVER333);
+print_r($_SERVER);
 echo "</pre>";
 
 echo "<pre>";
-print_r($_SERVER444);
+print_r($_SERVER);
 echo "</pre>";
 
 echo "<pre>";
-print_r($_SERVER555);
+print_r($_SERVER);
 echo "</pre>";
 
 echo "<pre>";
-print_r($_SERVER666);
+print_r($_SERVER);
 echo "</pre>";
 
 ?>
