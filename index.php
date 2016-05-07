@@ -8,7 +8,7 @@ print_r($_SERVER);
 echo "</pre>";
 
 echo "<pre>";
-print_r($_SERVER5);
+print_r($_SERVER9);
 echo "</pre>";
 
 ?>
